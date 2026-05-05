@@ -17,5 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Image Alt](https://github.com/rahoz-ahmad/Flutter_Info/blob/79bf0ff596368373dd8e5a2a96208f3a7d03670d/1.png).
+<p align="center">
+  <img src="https://github.com/rahoz-ahmad/Flutter_Info/blob/79bf0ff596368373dd8e5a2a96208f3a7d03670d/1.png" width="280"/>
+</p>
 
